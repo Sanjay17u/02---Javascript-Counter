@@ -1,1 +1,1 @@
-# 02---Javascript-Counter
+# 02---Javascript-Counter--Practice-Code
